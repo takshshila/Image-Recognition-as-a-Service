@@ -1,5 +1,6 @@
-# Cloud-Computing-Proj1
-# Image Recognition as a Service
+# Cloud-Computing-Project 1
+
+## Image Recognition as a Service
 
 Image recognition is a go-to functionality in this digital era to mark attendance, authorization, etc. With the increase in the number of users, a normal system will not work efficiently due to various reasons: dynamically run out of memory, computation powers, high workload, etc. We are building an Infrastructure as a Service on Amazon web service to provide consistent service with auto-scalable functionality. Every request will be guaranteed served with Amazon Simple Queue Service(SQS).
 
